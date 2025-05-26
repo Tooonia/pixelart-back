@@ -17,7 +17,7 @@ Follow these instructions to set up and run the application locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Tooonia/pixelart-back.git](https://github.com/Tooonia/pixelart-back.git)
+    git clone https://github.com/Tooonia/pixelart-back.git
     cd pixelart-back
     ```
 
