@@ -1,5 +1,5 @@
 # PixelArt API
-
+   
 This is a Spring Boot application for drawing and managing pixel art collections.
 
 ## Getting Started
